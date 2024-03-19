@@ -1,0 +1,5 @@
+*.in
+*.txt
+*.o
+Makefile
+grafo
